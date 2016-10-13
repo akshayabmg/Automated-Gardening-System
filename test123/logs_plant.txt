@@ -1,0 +1,442 @@
+Feb 25, 2016 12:59:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Jasmine is sprinkled with 2 (By rain)
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage1_Seed
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage1_Seed
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage1_Seed
+Feb 25, 2016 1:00:16 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The Sprinkler for the flower Jasmine is Turned ON by force 
+Feb 25, 2016 1:00:25 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The Sprinkler for the flower Jasmine is Turned ON by force 
+Feb 25, 2016 1:00:26 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The Sprinkler for the flower Jasmine is Turned ON by force 
+Feb 25, 2016 1:01:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is heated for the day and it is snowing.
+Feb 25, 2016 1:01:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is heated for the day and it is snowing.
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage1_Seed
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage1_Seed
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage3_Flower
+Feb 25, 2016 1:03:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is Already sprinkled and it is raining
+Feb 25, 2016 1:03:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Lavendar is sprinkled with 1 (By rain)
+Feb 25, 2016 1:03:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is heated for the day and it is snowing.
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage1_Seed
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage1_Seed
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage3_Flower
+Feb 25, 2016 1:05:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is heated for the day and it is snowing.
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage1_Seed
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage2_Sapling
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage3_Flower
+Feb 25, 2016 1:07:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is Already sprinkled and it is raining
+Feb 25, 2016 1:07:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Rose is sprinkled with 3 (By rain)
+Feb 25, 2016 1:07:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is heated for the day and it is snowing.
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage2_Sapling
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage2_Sapling
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:09:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is heated for the day and it is snowing.
+Feb 25, 2016 1:09:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is Already sprinkled and it is raining
+Feb 25, 2016 1:09:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:09:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Jasmine is sprinkled with 3 (By rain)
+Feb 25, 2016 1:09:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is heated for the day and it is snowing.
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage2_Sapling
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage2_Sapling
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage2_Sapling
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage2_Sapling
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:13:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is heated for the day and it is snowing.
+Feb 25, 2016 1:13:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is Already sprinkled and it is raining
+Feb 25, 2016 1:13:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Lavendar is sprinkled with 2 (By rain)
+Feb 25, 2016 1:13:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is heated for the day and it is snowing.
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage2_Sapling
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage3_Flower
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:15:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is heated for the day and it is snowing.
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage3_Flower
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage3_Flower
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:17:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is Already sprinkled and it is raining
+Feb 25, 2016 1:17:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Rose is sprinkled with 3 (By rain)
+Feb 25, 2016 1:17:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is heated for the day and it is snowing.
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage3_Flower
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage3_Flower
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:19:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is heated for the day and it is snowing.
+Feb 25, 2016 1:19:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is Already sprinkled and it is raining
+Feb 25, 2016 1:19:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:19:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Jasmine is sprinkled with 2 (By rain)
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage3_Flower
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:21:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is heated for the day and it is snowing.
+Feb 25, 2016 1:21:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is heated for the day and it is snowing.
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage4_Flowered
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:23:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is Already sprinkled and it is raining
+Feb 25, 2016 1:23:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:23:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Lavendar is sprinkled with 1 (By rain)
+Feb 25, 2016 1:23:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is heated for the day and it is snowing.
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage4_Flowered
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:25:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is heated for the day and it is snowing.
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage4_Flowered
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:27:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is Already sprinkled and it is raining
+Feb 25, 2016 1:27:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:27:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Rose is sprinkled with 2 (By rain)
+Feb 25, 2016 1:27:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is heated for the day and it is snowing.
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage4_Flowered
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:29:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is heated for the day and it is snowing.
+Feb 25, 2016 1:29:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is Already sprinkled and it is raining
+Feb 25, 2016 1:29:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:29:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Jasmine is sprinkled with 1 (By rain)
+Feb 25, 2016 1:29:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is heated for the day and it is snowing.
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage4_Flowered
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage4_Flowered
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:33:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is heated for the day and it is snowing.
+Feb 25, 2016 1:33:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is Already sprinkled and it is raining
+Feb 25, 2016 1:33:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:33:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Lavendar is sprinkled with 2 (By rain)
+Feb 25, 2016 1:33:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is heated for the day and it is snowing.
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage4_Flowered
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:35:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is heated for the day and it is snowing.
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage4_Flowered
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:37:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is Already sprinkled and it is raining
+Feb 25, 2016 1:37:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:37:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Rose is sprinkled with 3 (By rain)
+Feb 25, 2016 1:37:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Rose is heated for the day and it is snowing.
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage4_Flowered
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered
+Feb 25, 2016 1:39:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Lavendar is heated for the day and it is snowing.
+Feb 25, 2016 1:39:54 AM auto.system.gardencontroller.Log_Sys writeLog
+SEVERE:  The flower Jasmine is Already sprinkled and it is raining
+Feb 25, 2016 1:39:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:39:54 AM auto.system.gardencontroller.Log_Sys writeLog
+WARNING:  The flower Jasmine is sprinkled with 2 (By rain)
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Rose is overridden and set to OFF 
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is now Stage4_Flowered
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is heated for 3
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is heated for 3
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for plant Lavendar is overridden and set to OFF 
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for flower Jasmine is overridden and it is put OFF 
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is heated for 3
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is now Stage4_Flowered
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is now Stage4_Flowered

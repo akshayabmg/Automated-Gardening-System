@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="950.0" prefWidth="1500.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="auto.system.gardenView.MainViewController">
+   <children>
+      <ImageView fitHeight="1097.0" fitWidth="1641.0">
+         <image>
+            <Image url="@tulip-flower-garden.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="JasSprinkler" layoutX="196.0" layoutY="54.0" mnemonicParsing="false" onMouseClicked="#JasSprinkler" text="Sprinkler1 " />
+      <Button fx:id="LavendarSprinkler" layoutX="607.0" layoutY="62.0" mnemonicParsing="false" text="Sprinkler2" />
+      <Button fx:id="RoseSprinkler" layoutX="992.0" layoutY="22.0" mnemonicParsing="false" text="Sprinkler3" />
+      <Button fx:id="JasHeater" layoutX="188.0" layoutY="173.0" mnemonicParsing="false" text="Heater1" />
+      <Button fx:id="LavendarHeater" layoutX="780.0" layoutY="134.0" mnemonicParsing="false" text="Heater2" />
+      <Button fx:id="RoseHeater" layoutX="1188.0" layoutY="75.0" mnemonicParsing="false" text="Heater3" />
+      <Button fx:id="JasFert" layoutX="123.0" layoutY="278.0" mnemonicParsing="false" onAction="#JasFert" text="Fertilizer1" />
+      <Button fx:id="Lavendarfert" layoutX="918.0" layoutY="189.0" mnemonicParsing="false" onAction="#LavendarFert" text="Fertilizer2" />
+      <Button fx:id="Rosefert" layoutX="1343.0" layoutY="149.0" mnemonicParsing="false" onAction="#RoseFert" text="Fertilizer3" />
+      <Button fx:id="JasPest" layoutX="96.0" layoutY="435.0" mnemonicParsing="false" onAction="#JasPest" text="Pesticide1" />
+      <Button fx:id="RosePest" layoutX="1467.0" layoutY="246.0" mnemonicParsing="false" onAction="#RosePest" text="Pesticide3" />
+      <Button fx:id="LavendarPest" layoutX="1048.0" layoutY="330.0" mnemonicParsing="false" onAction="#LavendarPest" text="Pesticide2" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,724 @@
+Feb 25, 2016 12:59:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Inititated 
+Feb 25, 2016 12:59:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Inititated 
+Feb 25, 2016 12:59:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Inititated 
+Feb 25, 2016 12:59:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Inititated 
+Feb 25, 2016 12:59:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Inititated 
+Feb 25, 2016 12:59:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Inititated 
+Feb 25, 2016 12:59:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is notified of snow
+Feb 25, 2016 12:59:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is notified of rain
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:00:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:00:16 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:00:25 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:00:26 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:01:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is notified of snow
+Feb 25, 2016 1:01:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is notified of snow
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:02:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:03:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is notified of rain
+Feb 25, 2016 1:03:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is notified of snow
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:04:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:05:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is notified of snow
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:06:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:07:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is notified of rain
+Feb 25, 2016 1:07:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is notified of snow
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:08:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:09:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is notified of snow
+Feb 25, 2016 1:09:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is notified of rain
+Feb 25, 2016 1:09:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is notified of snow
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:10:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:12:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:13:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is notified of snow
+Feb 25, 2016 1:13:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is notified of rain
+Feb 25, 2016 1:13:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is notified of snow
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:14:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:15:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is notified of snow
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:16:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:17:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is notified of rain
+Feb 25, 2016 1:17:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is notified of snow
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:18:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:19:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is notified of snow
+Feb 25, 2016 1:19:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is notified of rain
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:20:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:21:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is notified of snow
+Feb 25, 2016 1:21:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is notified of snow
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:22:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:23:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is notified of rain
+Feb 25, 2016 1:23:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is notified of snow
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:24:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:25:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is notified of snow
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:26:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:27:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is notified of rain
+Feb 25, 2016 1:27:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is notified of snow
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:28:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:29:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is notified of snow
+Feb 25, 2016 1:29:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is notified of rain
+Feb 25, 2016 1:29:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is notified of snow
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:30:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:32:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:33:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is notified of snow
+Feb 25, 2016 1:33:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is notified of rain
+Feb 25, 2016 1:33:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is notified of snow
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:34:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:35:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is notified of snow
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:36:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:37:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is notified of rain
+Feb 25, 2016 1:37:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is notified of snow
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:38:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:39:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is notified of snow
+Feb 25, 2016 1:39:54 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is notified of rain
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned ON
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Rose is sprinkled with 2
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Rose is Turned OFF
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned ON
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Rose is Turned OFF
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned ON
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned ON
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned ON
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned ON
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Lavendar is sprinkled with 2
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The flower Jasmine is sprinkled with 2
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Lavendar is Turned OFF
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Sprinkler for the flower Jasmine is Turned OFF
+Feb 25, 2016 1:40:04 AM auto.system.gardencontroller.Log_Sys writeLog
+INFO:  The Heater for the flower Jasmine is Turned OFF
